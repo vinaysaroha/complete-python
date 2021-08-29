@@ -4,5 +4,5 @@
 # list: Order sequence of object [1,3,6,7]
 # dict: Unorder key value pair {'key1': 'value1','key2':'value2'}
 # tup: Order immutable sequence of object('a',1,5,'txt')
-# set : Unorder collection of unique objects('a','b')
+# set : Unorder collection of unique objects {'a','b'}
 # bool : logical value indicates True or false
