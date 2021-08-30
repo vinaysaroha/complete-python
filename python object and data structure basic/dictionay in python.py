@@ -10,3 +10,5 @@ my_dict['list1'][0].sort()
 print(my_dict['list1'][0])
 my_dict['list3'] = [6, 3, 5, 8]
 print(my_dict)
+
+
